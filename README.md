@@ -1,5 +1,5 @@
 # Bone activator
-Blender addon to activate a bone when selected
+Blender addon to activate a bone when selected.
 Tested in blender 2.8 
 
 Hello!
